@@ -1,6 +1,6 @@
 Here is the Github link https://github.com/markhamtrenton/hw1yes
 
-The purpose of this HW was to resturcture the html so that semantic element tags are used in place of basic div elements where possible. There is also restructuring the css so that iit works with the new semantic tags.
+The purpose of this HW was to resturcture the html so that semantic element tags are used in place of basic div elements where possible. There is also restructuring the css so that it works with the new semantic tags.
 
 Screenshots of final product
 ![Screenshot 2021-02-20 143643](https://user-images.githubusercontent.com/77074964/108613238-046a7c00-73be-11eb-9196-97b7b25c7dd5.png)
