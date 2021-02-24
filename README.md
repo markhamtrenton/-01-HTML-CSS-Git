@@ -1,4 +1,5 @@
 Here is the Github link https://github.com/markhamtrenton/hw1yes
+Here is the deployed link https://markhamtrenton.github.io/-01-HTML-CSS-Git/
 
 The purpose of this HW was to resturcture the html so that semantic element tags are used in place of basic div elements where possible. There is also restructuring the css so that it works with the new semantic tags.
 
